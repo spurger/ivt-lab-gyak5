@@ -1,4 +1,4 @@
-Welcome!
+Welcome stranger! Let's try GitHub!
 
 # IVT Spaceship
 
