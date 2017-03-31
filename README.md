@@ -1,4 +1,4 @@
-Welcome stranger!
+Welcome!
 
 # IVT Spaceship
 
